@@ -32,3 +32,4 @@ See docs/ (run `make`) or [augeasproviders.com](http://augeasproviders.com/docum
 ## Issues
 
 Please file any issues or suggestions [on GitHub](https://github.com/hercules-team/augeasproviders_core/issues).
+
